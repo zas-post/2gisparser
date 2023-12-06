@@ -3,5 +3,5 @@
 __pycache__/
 
 # project files
-files/*
+files/*.xlsx
 #*.xlsx
